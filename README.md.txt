@@ -1,1 +1,0 @@
-https://github.com/Carorline/ono-tebe-nado-fd
