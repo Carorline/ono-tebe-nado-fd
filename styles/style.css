@@ -89,7 +89,7 @@
 
 .cover__title {
   position:relative;
-  z-index: 0;
+  z-index: 5;
 }
 
 .aligned-text {
@@ -234,6 +234,7 @@
   text-underline-offset: 3px;
   text-decoration-style: solid;
   text-transform: uppercase;
+  z-index: 5;
 }
 
 .card__text {
@@ -242,6 +243,7 @@
   line-height: 24px;
   color: #FFFFFF ;
   text-align: left;
+  z-index: 5;
 }
 
 .lots__look-more-link {
